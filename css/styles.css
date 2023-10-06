@@ -104,3 +104,24 @@ header {
     width: 11rem;
 }
 
+.quote-container {
+    background-color: #e5e7eb;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-style:italic;
+    margin-bottom: 2px;
+}
+
+.quote-author {
+    font-weight: bold;
+    font-size: larger;
+    text-align: right;
+    margin-top: 0px;
+}
