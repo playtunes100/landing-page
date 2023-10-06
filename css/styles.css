@@ -73,3 +73,34 @@ header {
     color: #f9faf8;
 }
 
+.main-container {
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.main-container h2 {
+    color: #1f2937;
+    padding-bottom: 2rem;
+}
+
+.card-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card-img {
+    border: 5px solid #3b82f6;
+    border-radius: 20px;
+    width: 11rem;
+    height: 11rem;
+}
+
+.card {
+    flex: auto;
+    width: 11rem;
+}
+
