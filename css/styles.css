@@ -150,3 +150,10 @@ header {
     
 }
 
+footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: #f9faf8;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
